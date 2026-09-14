@@ -1,0 +1,12 @@
+{
+  "name": "pre-entrega-nodejs",
+  "version": "1.0.0",
+  "description": "CLI para gestionar productos usando la API de FakeStore",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Milagros Loeda",
+  "license": "MIT"
+}
