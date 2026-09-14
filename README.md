@@ -2,27 +2,27 @@
 
 CLI que permite consultar, crear y eliminar productos usando la API de FakeStore, usando comandos directamente desde la terminal.
 
-## Requisitos
+## Requisitos:
 
 - Node.js 18 o superior (usa `fetch` nativo, sin dependencias externas).
 
-## Instalación
+## Instalación:
 
 ```bash
 npm install
 ```
 
-## Cómo usarlo
+## Cómo usarlo:
 
 Todos los comandos se ejecutan con `npm run start` seguido del comando deseado.
 
-### Consultar todos los productos
+### Consultar todos los productos:
 
 ```bash
 npm run start GET products
 ```
 
-### Consultar un producto específico
+### Consultar un producto específico:
 
 ```bash
 npm run start GET products/<id>
