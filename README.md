@@ -12,7 +12,7 @@ CLI que permite consultar, crear y eliminar productos usando la API de FakeStore
 npm install
 ```
 
-## Como usarlo
+## Cómo usarlo
 
 Todos los comandos se ejecutan con `npm run start` seguido del comando deseado.
 
