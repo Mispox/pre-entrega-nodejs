@@ -14,7 +14,7 @@ npm install
 
 ## Cómo usarlo:
 
-Todos los comandos se ejecutan con `npm run start` seguido del comando deseado.
+Todos los comandos se ejecutan con `npm run start` seguido del comando que se quiera usar.
 
 ### Consultar todos los productos:
 
