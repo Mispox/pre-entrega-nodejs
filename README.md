@@ -58,7 +58,7 @@ Ejemplo 3:
 npm run start DELETE products/7
 ```
 
-> **IMPORTANTE:** FakeStore es una API de prueba — simula las operaciones de POST y DELETE devolviendo una respuesta válida, pero no persiste los cambios realmente.
+> **IMPORTANTE:** FakeStore es una API de prueba — simula las operaciones de POST y DELETE devolviendo una respuesta válida.
 
 ## Tecnologías que usa el proyecto
 
